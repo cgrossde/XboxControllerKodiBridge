@@ -1,0 +1,11 @@
+{
+  "name": "XboxControllerKodiBridge",
+  "version": "1.0.0",
+  "description": "Bridge between Kodi and Xbox 360 Controller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christoph Groß <gross@blubyte.de> (http://chris-labs.de/)",
+  "license": "ISC"
+}
